@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Turjo%20Rahman&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20Engineer&descSize=20&descAlignY=60&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MD%20Mazedur%20Rahman&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20Engineer&descSize=20&descAlignY=60&descColor=a78bfa"/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -13,12 +13,12 @@
 
 ### 👤 About Me
 
-- 🔬 I build **AI/ML systems** — from trading bots to vision models
-- 🤖 Deep into **Computer Vision** (YOLOv11, MaxViT, Siamese Networks)
-- 🧠 Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
-- 📈 Built an **algorithmic trading bot** and an **e-commerce AI platform**
-- ⚡ Currently benchmarking **JAX vs XLA** for high-performance ML
-- 🌱 Always pushing the limits of what's possible with Python & ML
+-  I build **AI/ML systems** — from trading bots to vision models
+-  Deep into **Computer Vision** (YOLOv11, MaxViT, Siamese Networks)
+-  Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
+-  Built an **algorithmic trading bot** and an **e-commerce AI platform**
+-  Currently benchmarking **JAX vs XLA** for high-performance ML
+-  Always pushing the limits of what's possible with Python & ML
 
 <br clear="right"/>
 
@@ -38,15 +38,6 @@
 <p align="center">
   <!-- Tools & Infra -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,mysql&theme=dark&perline=10"/>
-</p>
-
----
-
-<!-- GitHub Trophies -->
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TurjoRahman-afk&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 ---
@@ -86,26 +77,17 @@
 
 ---
 
-<!-- Snake Contribution Graph -->
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TurjoRahman-afk/TurjoRahman-afk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
 <!-- Connect -->
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/mdmazedurrahman/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/YOUR-LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://www.instagram.com/into_thturjo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:rahmanturjo399@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
