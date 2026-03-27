@@ -11,7 +11,7 @@
 <!-- About Me -->
 <img align="right" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="280"/>
 
-### 👤 About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 -  I build **AI/ML systems** — from trading bots to vision models
 -  Deep into **Computer Vision** (YOLOv11, MaxViT, Siamese Networks)
@@ -25,7 +25,7 @@
 ---
 
 <!-- Tech Stack -->
-### 🛠️ Tech Stack
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -43,10 +43,10 @@
 ---
 
 <!-- Stats -->
-### 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurjoRahman-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <!--<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurjoRahman-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />-->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TurjoRahman-afk&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
@@ -56,7 +56,7 @@
 ---
 
 <!-- Featured Projects -->
-### 🚀 Featured Projects
+### <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="28"/> Featured Projects
 
 <p align="center">
   <a href="https://github.com/TurjoRahman-afk/yolov11-maxvit">
@@ -78,7 +78,7 @@
 ---
 
 <!-- Connect -->
-### 🤝 Connect With Me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdmazedurrahman/">
