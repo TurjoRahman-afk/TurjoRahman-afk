@@ -49,31 +49,6 @@
   <!--<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurjoRahman-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />-->
   <img width="49%" src="https://streak-stats.demolab.com?user=TurjoRahman-afk&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurjoRahman-afk&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
----
-
-<!-- Featured Projects -->
-### <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="28"/> Featured Projects
-
-<p align="center">
-  <a href="https://github.com/TurjoRahman-afk/yolov11-maxvit">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TurjoRahman-afk&repo=yolov11-maxvit&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/TurjoRahman-afk/algorithmic-trading-bot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TurjoRahman-afk&repo=algorithmic-trading-bot&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TurjoRahman-afk/SiameseGaitNet">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TurjoRahman-afk&repo=SiameseGaitNet&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/TurjoRahman-afk/WikiNER-BERT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TurjoRahman-afk&repo=WikiNER-BERT&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
 
 ---
 
