@@ -50,6 +50,10 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=TurjoRahman-afk&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoRahman-afk&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" />
+</p>
+
 ---
 
 <!-- Connect -->
