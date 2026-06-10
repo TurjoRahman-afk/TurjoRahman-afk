@@ -100,11 +100,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoRahman-afk&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&custom_title=Contribution%20Activity" />
 </p>
 
-<!-- ===================== TROPHIES ===================== -->
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=TurjoRahman-afk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
 ---
 
 <!-- ===================== CONNECT ===================== -->
