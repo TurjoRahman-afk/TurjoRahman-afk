@@ -35,32 +35,40 @@
 <!-- ===================== TECH STACK ===================== -->
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> Tech Stack
 
-#### 💻 Languages
+####  Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### 🧠 AI / Machine Learning
+####  AI / Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/JAX-8A2BE2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DETA-FF4B4B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DTA%20Prediction-FF4B4B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESM%20Protein%20LM-00A98F?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RDKit-009999?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BioPython-0769AD?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-#### 🛠️ Tools & Infrastructure
+####  Tools & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
