@@ -3,13 +3,12 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Drug-Target+Affinity+Prediction+%F0%9F%A7%AC;Object+Detection+with+YOLOv11+%F0%9F%8E%AF;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+World+%F0%9F%8C%8D;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Drug-Target+Affinity+Prediction+%F0%9F%A7%AC;Object+Detection+with+YOLOv11+%F0%9F%8E%AF;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+Living+in+China+%F0%9F%87%A8%F0%9F%87%B3;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <!-- ===================== LIVE STATS BADGES ===================== -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/TurjoRahman-afk?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0f0c29&logo=github" />
-  <img src="https://img.shields.io/github/stars/TurjoRahman-afk?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0f0c29&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=TurjoRahman-afk&label=Profile+Views&color=a78bfa&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge&labelColor=0f0c29" />
 </p>
@@ -21,8 +20,9 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
--  I build **AI/ML systems** — from trading bots to vision models
--  Deep into **Computer Vision** (YOLOv11, DETA, MaxViT, Siamese Networks)
+-  I build **AI/ML systems** — from trading bots to vision and drug-discovery models
+-  Deep into **Computer Vision** (YOLOv11, MaxViT, Siamese Networks)
+-  Working on **Drug-Target Affinity prediction** with protein LMs (ESM) and cheminformatics
 -  Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
 -  Built an **algorithmic trading bot** and an **e-commerce AI platform**
 -  Currently benchmarking **JAX vs XLA** for high-performance ML
@@ -96,9 +96,12 @@
   <img height="195" src="https://github-readme-stats-theta-five-23.vercel.app/api/top-langs/?username=TurjoRahman-afk&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&bg_color=0f0c29&langs_count=8" />
 </p>
 
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoRahman-afk&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&custom_title=Contribution%20Activity" />
+  <img src="https://raw.githubusercontent.com/TurjoRahman-afk/TurjoRahman-afk/output/snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
+
+
 
 ---
 
