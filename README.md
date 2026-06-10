@@ -3,7 +3,7 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Object+Detection+with+YOLOv11+%26+DETA+%F0%9F%8E%AF;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+World+%F0%9F%8C%8D;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Drug-Target+Affinity+Prediction+%F0%9F%A7%AC;Object+Detection+with+YOLOv11+%F0%9F%8E%AF;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+World+%F0%9F%8C%8D;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <!-- ===================== LIVE STATS BADGES ===================== -->
@@ -21,12 +21,12 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-- 🤖 I build **AI/ML systems** — from trading bots to vision models
-- 👁️ Deep into **Computer Vision** (YOLOv11, DETA, MaxViT, Siamese Networks)
-- 🧠 Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
-- 💼 Built an **algorithmic trading bot** and an **e-commerce AI platform**
-- ⚡ Currently benchmarking **JAX vs XLA** for high-performance ML
-- 🚀 Always pushing the limits of what's possible with Python & ML
+-  I build **AI/ML systems** — from trading bots to vision models
+-  Deep into **Computer Vision** (YOLOv11, DETA, MaxViT, Siamese Networks)
+-  Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
+-  Built an **algorithmic trading bot** and an **e-commerce AI platform**
+-  Currently benchmarking **JAX vs XLA** for high-performance ML
+-  Always pushing the limits of what's possible with Python & ML
 
 <br clear="right"/>
 
