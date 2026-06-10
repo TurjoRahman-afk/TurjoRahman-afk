@@ -3,14 +3,14 @@
 
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+World+%F0%9F%8C%8D;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Object+Detection+with+YOLOv11+%26+DETA+%F0%9F%8E%AF;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+World+%F0%9F%8C%8D;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<!-- ===================== PROFILE BADGES ===================== -->
+<!-- ===================== LIVE STATS BADGES ===================== -->
 <p align="center">
+  <img src="https://img.shields.io/github/followers/TurjoRahman-afk?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0f0c29&logo=github" />
+  <img src="https://img.shields.io/github/stars/TurjoRahman-afk?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0f0c29&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=TurjoRahman-afk&label=Profile+Views&color=a78bfa&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/TurjoRahman-afk?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-a78bfa?style=for-the-badge&labelColor=0f0c29" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge&labelColor=0f0c29" />
 </p>
 
@@ -21,12 +21,12 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
--  I build **AI/ML systems** — from trading bots to vision models
--  Deep into **Computer Vision** (YOLOv11, MaxViT, Siamese Networks)
--  Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
--  Built an **algorithmic trading bot** and an **e-commerce AI platform**
--  Currently benchmarking **JAX vs XLA** for high-performance ML
--  Always pushing the limits of what's possible with Python & ML
+- 🤖 I build **AI/ML systems** — from trading bots to vision models
+- 👁️ Deep into **Computer Vision** (YOLOv11, DETA, MaxViT, Siamese Networks)
+- 🧠 Exploring **NLP/LLMs** — BERT, SFT pipelines, named entity recognition
+- 💼 Built an **algorithmic trading bot** and an **e-commerce AI platform**
+- ⚡ Currently benchmarking **JAX vs XLA** for high-performance ML
+- 🚀 Always pushing the limits of what's possible with Python & ML
 
 <br clear="right"/>
 
@@ -54,6 +54,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DETA-FF4B4B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -68,6 +69,14 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
 
 ---
 
@@ -75,21 +84,17 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurjoRahman-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&bg_color=0f0c29" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=TurjoRahman-afk&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0f0c29" />
+  <img height="195" src="https://github-readme-stats-theta-five-23.vercel.app/api?username=TurjoRahman-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa&bg_color=0f0c29" />
+  <img height="195" src="https://github-readme-stats-theta-five-23.vercel.app/api/top-langs/?username=TurjoRahman-afk&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&bg_color=0f0c29&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurjoRahman-afk&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&bg_color=0f0c29&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoRahman-afk&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TurjoRahman-afk&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&custom_title=Contribution%20Activity" />
 </p>
 
 <!-- ===================== TROPHIES ===================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TurjoRahman-afk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=TurjoRahman-afk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
